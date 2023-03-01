@@ -1,0 +1,12 @@
+input {
+	font-size: 1rem;
+	padding: 0.5rem 1rem;
+	margin: 1rem;
+	border: none;
+	background-color: transparent;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+nav {
+	text-align: center;
+}

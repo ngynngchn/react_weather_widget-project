@@ -1,0 +1,19 @@
+section {
+	border-radius: 20px;
+	background-color: #161516;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	margin: 2rem;
+	padding: 1.5rem;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+}
+
+p {
+	font-size: 0.7rem;
+}
+
+h2 {
+	font-size: 2rem;
+	margin: 1rem 0;
+}
